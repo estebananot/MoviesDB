@@ -6,7 +6,7 @@ This repository contains the database structure for a movie application. It incl
 
 Below is the ER diagram of the database. You can find the image in the root folder of the repository.
 
-![ER Diagram](DER.JPG)
+![ER Diagram](DER.png)
 
 ## Database Structure
 
